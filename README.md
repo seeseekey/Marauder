@@ -21,8 +21,6 @@ Some features from the classic game are not implemented:
 
 ## Authors
 
-For the game jam we found the team TeamNameNotFoundException.
-
 * seeseekey - https://seeseekey.net
 
 ## License
